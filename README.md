@@ -16,9 +16,7 @@
 ---
 
 ### 📫 How to reach me  
-- 📧 Email: **vaisali303@gmail.com**  
-- 🌐 Portfolio/Website: *[add link if you have one]*  
-- 💼 LinkedIn: *[add your LinkedIn here]*  
+- 📧 Email: **vaisali303@gmail.com**   
 
 ---
 
